@@ -3,6 +3,8 @@ Test First Ruby
 
 See [testfirst.org/learn_ruby](http://testfirst.org/learn_ruby#install) for more information about how this will work.
 
+Testing my commits
+
 
 ### On a High Level
 
